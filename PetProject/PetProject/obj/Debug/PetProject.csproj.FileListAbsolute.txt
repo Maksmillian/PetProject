@@ -1,0 +1,7 @@
+D:\PetProject\PetProject\bin\Debug\PetProject.exe.config
+D:\PetProject\PetProject\bin\Debug\PetProject.exe
+D:\PetProject\PetProject\bin\Debug\PetProject.pdb
+D:\PetProject\PetProject\obj\Debug\PetProject.csprojAssemblyReference.cache
+D:\PetProject\PetProject\obj\Debug\PetProject.csproj.CoreCompileInputs.cache
+D:\PetProject\PetProject\obj\Debug\PetProject.exe
+D:\PetProject\PetProject\obj\Debug\PetProject.pdb
